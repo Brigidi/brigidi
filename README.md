@@ -1,7 +1,7 @@
-# Matt Brigidi
-**title**: Sr. Director, Innovation & Solutions \n
-**team**: Audience Analytics & Strategy \n
-**company**: Condé Nast \n
+# Matt Brigidi #
+**title**: Sr. Director, Innovation & Solutions
+**team**: Audience Analytics & Strategy
+**company**: Condé Nast
 
 
 
