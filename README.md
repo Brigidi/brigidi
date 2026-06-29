@@ -8,16 +8,5 @@ so that people can explore work that brings them satisfaction and fulfillment; r
 
 I want my work to be an opportunity instead of an obligation.
 
-## Experience
-| position | time spent | employer | context |
-| :---: | :---: | :---: | :---: |
-| sports blogger | 2010-2015 | independent; sb nation | i covered the philadelphia flyers as a credentialed media member and then worked as a general sports blogger for vox media's sb nation |
-| operations | 2013-2017 | sb nation; vox media; the verge | this period of time was a point in my career where i was accumulating experience trying to find my path. i worked on the copy-desk at sb nation; managed content recirculation; and acted as an assignment editor. additionally, i transitioned to a role at vox media managing video distribution strategy, which provided an opportunity to embed with the verge as their video publishing manager (in an unofficial capacity).
-| analyst | 2017-2019 | vox media | data specific role, which focused on vox media's video operations strategy |
-| sr. manager | 2019-2021 | condé nast | video research & analytics reporting on condé nast's video operations strategy |
-| director | 2021-2025 | condé nast | content planning & analysis relating to video operations, specifically, from the vantage point of content investment |
-| sr. director | present | condé nast | operational efficiency by the audience analytics & strategy team |
-
-
 
 
